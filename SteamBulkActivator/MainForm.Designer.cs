@@ -571,7 +571,7 @@
             0});
             this.num_RegDelay.Location = new System.Drawing.Point(126, 328);
             this.num_RegDelay.Maximum = new decimal(new int[] {
-            100000,
+            1000000,
             0,
             0,
             0});
